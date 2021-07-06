@@ -3,7 +3,7 @@
   "version": "0.2.8",
   "description": "",
   "dependencies": {
-    "6to5": "3.3.2",
+    "6to5": "3.6.5",
     "body-parser": "1.19.0",
     "commander": "2.20.3",
     "debug": "2.6.9",
