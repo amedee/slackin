@@ -4,7 +4,7 @@
   "description": "",
   "dependencies": {
     "6to5": "3.3.2",
-    "body-parser": "1.10.2",
+    "body-parser": "1.19.0",
     "commander": "2.20.3",
     "debug": "2.1.1",
     "email-regex": "1.0.0",
